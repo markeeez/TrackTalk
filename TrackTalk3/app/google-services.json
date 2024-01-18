@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478523323266",
+    "project_id": "tracktalk-84c25",
+    "storage_bucket": "tracktalk-84c25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478523323266:android:e19e037a943e8f0e73559b",
+        "android_client_info": {
+          "package_name": "com.example.tracktalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478523323266-189mj2o2jegolkigmqpm8sn2lrg5j1v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tracktalk",
+            "certificate_hash": "fa32301b095e6ad6d9b28a17e602b6041849cb8d"
+          }
+        },
+        {
+          "client_id": "478523323266-p7ac7lnrubbiama331stulks7l9c0o8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEB8okyVa5p40j58oJXygP0N8dmZeFZag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478523323266-p7ac7lnrubbiama331stulks7l9c0o8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
